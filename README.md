@@ -1,6 +1,6 @@
 ### Hi There! 🙋‍♂ Check out my ML-related projects!
 
-![Website](https://img.shields.io/website?label=blog&url=https://daehankim.pythonanywhere.com/)
+[![Website](https://img.shields.io/website?label=blog&url=https%3A%2F%2Fdaehankim.pythonanywhere.com%2F)](https://daehankim.pythonanywhere.com/)
 [![E-Mail](https://img.shields.io/badge/email-reveal-369?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/MipPxC48)
 [![Linkedin Badge](https://img.shields.io/badge/-daehankim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kim-daehan-16212214a/)](https://www.linkedin.com/in/kim-daehan-16212214a/)
 
