@@ -1,2 +1,1 @@
-- [NLP201](https://daehankim.blogspot.com/) : 개인 기술 블로그입니다.
-- 한국어 코퍼스로 학습한 [KoUL2](https://huggingface.co/DaehanKim/KoUL2)를 Huggingface Hub에 공개하였습니다. 
+[Tech Blog](https://daehankim.blogspot.com/)    |    [Linkedin](https://www.linkedin.com/in/kim-daehan-16212214a/)    |    [CV](https://docs.google.com/document/d/1l_gVZPSHXQZoSMdBmxf8k6ASh7O0g2TwIY_ezdzIJTI/edit?usp=sharing)
