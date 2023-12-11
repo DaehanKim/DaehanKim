@@ -1,1 +1,1 @@
-[Tech Blog](https://daehankim.blogspot.com/)    |    [Linkedin](https://www.linkedin.com/in/kim-daehan-16212214a/)    |    [CV](https://docs.google.com/document/d/1l_gVZPSHXQZoSMdBmxf8k6ASh7O0g2TwIY_ezdzIJTI/edit?usp=sharing)
+[Tech Blog](https://daehankim.blogspot.com/)    |   [LinkedIn](https://www.linkedin.com/in/daehan-kim-16212214a/)    |    [CV](https://docs.google.com/document/d/1l_gVZPSHXQZoSMdBmxf8k6ASh7O0g2TwIY_ezdzIJTI/edit?usp=sharing)
